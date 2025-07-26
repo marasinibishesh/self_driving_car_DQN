@@ -229,6 +229,14 @@ self-driving-car-dqn/
 2. Sutton, R. S. & Barto, A. G. (2018). "Reinforcement Learning: An Introduction".
 3. Van Hasselt, H. et al. (2016). "Deep Reinforcement Learning with Double Q-Learning".
 
+## Contributing
+Contributions are welcome! Please follow these steps:
+1.Fork the repository
+2.Create a feature branch (git checkout -b feature/improvement)
+3.Commit your changes (git commit -am 'Add some feature')
+4.Push to the branch (git push origin feature/improvement)
+5.Open a pull request
+
 ## License
 MIT License
 
