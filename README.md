@@ -231,11 +231,11 @@ self-driving-car-dqn/
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
-1.Fork the repository
-2.Create a feature branch (git checkout -b feature/improvement)
-3.Commit your changes (git commit -am 'Add some feature')
-4.Push to the branch (git push origin feature/improvement)
-5.Open a pull request
+1. Fork the repository
+2. Create a feature branch (git checkout -b feature/improvement)
+3. Commit your changes (git commit -am 'Add some feature')
+4. Push to the branch (git push origin feature/improvement)
+5. Open a pull request
 
 ## License
 MIT License
